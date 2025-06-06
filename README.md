@@ -39,3 +39,9 @@ O projeto **EyeGrid – Cidadela SOS** é um sistema de detecção de gestos de 
 
 ```bash
 pip install opencv-python mediapipe
+```
+
+### Equipe
+- Leonardo Schunck Rainha - 99902
+- Kayky Oliveira Schunck - 99756
+- Carlos Ganzerli - 99840
