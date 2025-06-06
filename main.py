@@ -37,7 +37,7 @@ def main():
     """
     Função principal que executa a captura de vídeo e a detecção de gestos.
     """
-    cap = cv2.VideoCapture("video.mp4")
+    cap = cv2.VideoCapture(1)
 
     wave_counter = 0
     alert_triggered = False

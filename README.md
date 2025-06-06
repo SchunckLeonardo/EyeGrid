@@ -25,7 +25,7 @@ O projeto **EyeGrid – Cidadela SOS** é um sistema de detecção de gestos de 
 
 ## ▶️ Vídeo Demonstrativo
 
-📺 [Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=SEU-LINK-AQUI)  
+📺 [Clique aqui para assistir no YouTube](https://youtu.be/SlQRaufUVu8)  
 
 ---
 
